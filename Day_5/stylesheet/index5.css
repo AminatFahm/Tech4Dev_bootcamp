@@ -49,9 +49,30 @@ li{
     left:300px
 }
 .secondiv{
-    height: 400; 
-    width: 400; 
-    background-color: black;
-    margin 0px 500px;
-    padding: 10px 50px;
+    height: 423px; 
+    width: 398px; 
+    background-color: #202649;
+    margin-top: 0px;
+    margin-left: 627px;
+    box-shadow: 0px 10px 20px;
+    border-radius: 50px;
+    position: relative;
+    /*display: flex;*/
+    /*background-color: #ffffff;*/
+}
+#hello{
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 0px;
+    
+    height: 225px;
+    width: 285px;
+    font-style: normal;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    font: #ffffff;
+    padding-top: 99px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
